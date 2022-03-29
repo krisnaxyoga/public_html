@@ -155,7 +155,7 @@
             <a href="{{route('landing_v2.price')}}" class="custom-btn secondary-btn">Mulai Sekarang!</a>
         </div>
         <!-- End of .project-showcase -->
-    </div>
+    </div>        
     <!-- End of .container -->
 </section>
 <?php get_footer();

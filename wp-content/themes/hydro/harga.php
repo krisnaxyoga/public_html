@@ -85,7 +85,7 @@
                     <span class="favorite">
                         <span class="favorit-title">
                             Favorit
-                        </span>
+                        </span>  
                     </span>
                         <!-- End of .group-title -->
                         <div class="row no-gutters">
